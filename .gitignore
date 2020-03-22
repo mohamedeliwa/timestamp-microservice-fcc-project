@@ -1,0 +1,4 @@
+# ignoring node_modules
+node_modules/
+# config/ : folder contains environment variables
+config/
